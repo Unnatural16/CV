@@ -42,6 +42,10 @@ main: #简历主要内容，
 - type: skills
   # name: "技能"
   content:
+  - title: 修习课程
+    items: 
+    - 修习了数据结构与算法课程，了解链表、树、图基本数据结构，能使用常见的算法优化程序运行解决问题。
+    - 修习了计算机网络课程，了解TCP/IP等网络模型和HTTP等网络协议
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - 了解HTML规范，能熟练写出符合语义化的HTML代码。
@@ -52,6 +56,8 @@ main: #简历主要内容，
     - 掌握Vue.js框架的使用，能使用其及其附属组件如vue-router、vuex等构建复杂的单页面应用。
     - 了解Node.js，会使用Egg.js等后端框架进行后端服务器构造。
     - 掌握Webpack等代码打包工具，会使用代码打包工具进行代码打包以及编译输出。
+    - 掌握CSS框架和预处理器，能使用stylus等CSS预处理器高效编写CSS或是使用Tailwind CSS等框架高效构建页面。
+    - 熟练使用Git和Github，能使用其进行代码的版本管理、特性添加。
     # summary: Consectetur， Adipiscing， Elit
 
 # - type: experience
@@ -121,6 +127,6 @@ main: #简历主要内容，
 #     href: "https://github.com/NewFuture/CV/"
 
 #页面额外js脚本，如xx统计
-scripts:
+scripts: 
 #- src: "assets/js/resume.js"
 #  defer: defer #可以设置defer或者sync异步加载
