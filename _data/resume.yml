@@ -40,7 +40,7 @@ main: #简历主要内容，
   #   detail: Master Bachelor of Computer Science & Technology.
 
 - type: skills
-  # name: "技能"
+  name: "技能"
   content:
   - title: 修习课程
     items: 
